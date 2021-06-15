@@ -1,0 +1,1 @@
+export { default as Pickup } from "./src/Pickup";

@@ -1,0 +1,31 @@
+.root {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.title {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.iconContainer {
+    float: left;
+    padding-right: 10px;
+}
+
+.company {
+    display: block;
+    padding-bottom: 5px;
+}
+.street {
+    display: block;
+    padding-bottom: 5px;
+}
+.zipcode {
+    display: block;
+    padding-bottom: 5px;
+}
+.country {
+    display: block;
+    padding-bottom: 10px;
+}
